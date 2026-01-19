@@ -37,40 +37,36 @@ The distance between the pitch of two `notes`, or simply gaps (or distance or sp
 Melodic intervals are the building blocks of Scales.
 - In melody one note is played at a time.
 - Melodies are usually played on higher strings.
-Starting note of an interval is called root-note. And then:
-Unison
-minor 2nd
-Major 2nd
-minor 3rd
-Major 3rd
-Augmented 4th / Diminished 5th / Tritone
-Perfect 5th
-minor 6th
-Major 6th
-minor 7th
-Major 7th
-Octave
-Intervals are named with a number and quality such as:
-Number: How many note letters the interval covers
-Quality: Describes the sound of interval
-minor
-Major
-Perfect
-Augmented
-Diminished
+Starting note of an interval is called **root-note**. And then:
+  - Unison
+  - minor 2nd
+  - Major 2nd
+  - minor 3rd
+  - Major 3rd
+  - Augmented 4th / Diminished 5th / Tritone
+  - Perfect 5th
+  - minor 6th
+  - Major 6th
+  - minor 7th
+  - Major 7th
+  - Octave
+- Intervals are named with a number and quality such as:
+  - Number: How many note letters the interval covers
+  - Quality: Describes the sound of interval
+    - minor
+    - Major
+    - Perfect
+    - Augmented
+    - Diminished
+- Octave: An interval of 8 notes of a musical scale that shares notes of the same name – e.g. from a low C to a high C.
 
-Octave: An interval of 8 notes of a musical scale that shares notes of the same name – e.g. from a low C to a high C.
+### Major Scale Chord Progression
 
-Major Scale Chord Progression
-
-1. Make a Major Scale
-2. Convert Note names to Chord names:
-
-- a M m m M M m D
-
-3. Arrange a few chords from a key
-2. Pick a strumming pattern
-3. Experiment, Play Around
+- Make a Major Scale
+- Convert Note names to Chord names:
+  - a M m m M M m D Arrange a few chords from a key
+- Pick a strumming pattern
+- Experiment, Play Around
 
 ## Keys
 
@@ -100,8 +96,8 @@ Organized sequences of notes played in an ascending or descending order. The dis
 A triad is a three-note chord built by stacking two thirds: root, third, and fifth. What “stacking two thirds” means:
 
 - A triad has three distinct notes named by *consecutive* letter names (e.g., C–E–G), where:
- 	- Root → Third is a third (major or minor)
- 	- Third → Fifth is a third (major or minor)
+  - Root → Third is a third (major or minor)
+  - Third → Fifth is a third (major or minor)
 
 ### Major vs. Minor triads
 
@@ -162,17 +158,6 @@ List of common Major Triads in enharmonic equivalents (same pitches, different s
 Visually explained [URL](https://cosmic-lotus.itch.io/circle-of-fifth).
 
 Clock-face layout:
-
-```markdown
-                C (Am)
-         F (Dm)         G (Em)
-    B♭ (Gm)               D (Bm)
-   E♭ (Cm)                 A (F♯m)
-   A♭ (Fm)                 E (C♯m)
-    D♭ (B♭m)            B (G♯m)
-           F♯/G♭ (D♯m/E♭m)
-
-```
 
 ![alt text](./Images/circle-of-fifths.png)
 
