@@ -21,6 +21,21 @@ A sound itself, it represents the pitch and duration of a sound in musical notat
   - #: C - C# - D - D# - E - F - F# - G - G# - A - A# - B - C
   - ♭: C - D♭ - D - E♭ - E - F - G♭ - G - A♭ - A - B♭ - B - C
 
+### Note Types: (Based on duration)
+
+- ![alt text](./Images/WholeNote.png) Whole Note: A note that lasts for four beats, or a count of “one, two, three, four”
+- ![alt text](./Images/HalfNote.png) Half Note: A note that lasts for two beats
+- ![alt text](./Images/QuarterNote.png) Quarter Note: A note that lasts for one beat
+- ![alt text](./Images/EighthNote.png) Eighth Note: An eighth note is normally a half beat, so a dotted eighth note becomes three-quarters of a beat long. e.g., One and, Two and
+  - When two eighth notes are together, this symbol ![alt text](./Images/EighthNotesConnected.png) is used
+- Sixteenth Note: A note that lasts for a quarter of a beat
+- ![alt text](./Images/DottedHalfNote.png) Dotted Half Note: When there is a dot behind a note, it adds half of the note’s length to the note. A half note is normally two beats, so a dotted half note becomes three beats long.
+  - Eighth Note is normally a half beat, so a dotted eighth note ![alt text](./Images/DottedEighthNote.png) becomes three-quarters of a beat long.
+- Staccato Notes: A style of playing where notes are short and clearly defined. Play the note, remove the pressure from your finger but keep the finger on string.
+- Legato Notes: A style of playing where notes are smooth and connected to one another.
+- Root note: The first note of a chord – e.g., the root note of A minor is A
+
+
 ## Chord
 
 ## Interval
@@ -68,19 +83,32 @@ Starting note of an interval is called **root-note**. And then:
 - Pick a strumming pattern
 - Experiment, Play Around
 
+- Chord Progression
+
+| - | Major | minor | minor | Major | Major | minor | Diminished |
+| - | - | - | - | - | - | - | - |
+| - | I | ii | iii | IV | V | VI | vii° |
+| Key of C | C | Dm | Em | F | G | Am | B° |
+| Key of D | D | Em | F#m | G | A | Bm | C#° |
+| Key of E | E | F#m | G#m | A | B | C#m | D#° |
+| Key of F | F | Gm | Am | B♭ | C | Dm | E° |
+| Key of G | G | Am | Bm | C | D | Em | F#° |
+| Key of A | A | Bm | C#m | D | E | F#m | G#° |
+
 ## Keys
 
 The group of pitches (the scale) that is used in a song.
-There are only two Keys:
 
-- Major Key: There are only 7 notes (Out of 12 notes) in a Major Key.
+![alt text](./Images/piano.png)
+
+- **Major Key:** There are only 7 notes (Out of 12 notes) in a Major Key.
   - Formula for Major Scale is: W-W-H-W-W-W-H (That's a spacing between the notes)
   - Cmaj Scale would be: C D E F G A B C
   - Amaj Scale would be: A B C# D E F# G# A
   - In Major Scales, letter names appear only once, no matter how many accidentals there are
   - A# Maj Scale would be: B♭ C D E♭ F G A B♭
-- Minor Key: Same goes for Minor Key as well. Only 7 Notes
-- Relative keys: Keys that share the same notes but start on different notes – e.g., C major and A minor contain the same notes, but C major starts on C while A minor starts on A
+- **Minor Key:** Same goes for Minor Key as well. Only 7 Notes
+- **Relative keys:** Keys that share the same notes but start on different notes – e.g., C major and A minor contain the same notes, but C major starts on C while A minor starts on A
 
 ## Scales
 
@@ -151,7 +179,7 @@ List of common Major Triads in enharmonic equivalents (same pitches, different s
 
 ## Misc
 
-- Pick-up bar When one or more beats are skipped at the start of the first measure (the first bar) of a song
+- **Pick-up bar:** When one or more beats are skipped at the start of the first measure (the first bar) of a song
 
 ## Circle of Fifths
 
