@@ -35,7 +35,6 @@ A sound itself, it represents the pitch and duration of a sound in musical notat
 - Legato Notes: A style of playing where notes are smooth and connected to one another.
 - Root note: The first note of a chord – e.g., the root note of A minor is A
 
-
 ## Chord
 
 ## Interval
@@ -172,8 +171,7 @@ List of common Major Triads in enharmonic equivalents (same pitches, different s
 
 > Quick rule of thumb:
 >
-> - To turn a major triad into minor, lower the third by one semitone.
-> - To turn a minor triad into major, raise the third by one semitone.
+> - To turn a major triad into minor, lower the third by one semitone, and vice-versa.
 > - If the three note names are consecutive letters (like A–C–E or F#–A#–C#) and the inner intervals are thirds (3 or 4 semitones each), it’s a triad.
 > - The specific sizes of those thirds determine whether it’s major, minor, diminished, or augmented.
 
